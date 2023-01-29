@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/run-posts/static/css/main.6ca3fbf6.css",
+    "main.js": "/run-posts/static/js/main.140cb5cf.js",
+    "index.html": "/run-posts/index.html",
+    "main.6ca3fbf6.css.map": "/run-posts/static/css/main.6ca3fbf6.css.map",
+    "main.140cb5cf.js.map": "/run-posts/static/js/main.140cb5cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ca3fbf6.css",
+    "static/js/main.140cb5cf.js"
+  ]
+}
